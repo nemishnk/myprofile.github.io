@@ -41,7 +41,7 @@ a {
 }
 a:hover, a:focus {
 	text-decoration: none;
-	color: #7bc3d1;
+	color:black;
 }
 ul, ol {
 	list-style: none;
